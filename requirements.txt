@@ -1,2 +1,6 @@
-anthropic>=0.25.0
-pytest>=7.0.0
+anthropic
+langchain
+langchain-anthropic
+langchain-community
+streamlit
+python-dotenv
